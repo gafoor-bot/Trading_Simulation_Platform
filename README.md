@@ -43,12 +43,12 @@ This example, unmodified, will run the create a `report.md` file with the output
 
 The engineering_team Crew is composed of multiple AI agents, each with unique roles, goals, and tools. These agents collaborate on a series of tasks, defined in `config/tasks.yaml`, leveraging their collective skills to achieve complex objectives. The `config/agents.yaml` file outlines the capabilities and configurations of each agent in your crew.
 
-## Support
+## Images / Visuals
 
-For support, questions, or feedback regarding the EngineeringTeam Crew or crewAI.
-- Visit our [documentation](https://docs.crewai.com)
-- Reach out to us through our [GitHub repository](https://github.com/joaomdmoura/crewai)
-- [Join our Discord](https://discord.com/invite/X4JWnZnxPb)
-- [Chat with our docs](https://chatg.pt/DWjSBZn)
+**Workflow Diagram:**  
+![Crew Workflow](images/image1.png)  
+![Crew Workflow](images/image2.png)  
+![Crew Workflow](images/image3.png)  
+
 
 Let's create wonders together with the power and simplicity of crewAI.
